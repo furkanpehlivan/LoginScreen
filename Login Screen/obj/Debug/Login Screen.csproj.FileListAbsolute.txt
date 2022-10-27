@@ -1,0 +1,10 @@
+C:\Users\EXCALIBUR\Desktop\Visual Studio Projeler\Login Screen\Login Screen\bin\Debug\Login Screen.exe.config
+C:\Users\EXCALIBUR\Desktop\Visual Studio Projeler\Login Screen\Login Screen\bin\Debug\Login Screen.exe
+C:\Users\EXCALIBUR\Desktop\Visual Studio Projeler\Login Screen\Login Screen\bin\Debug\Login Screen.pdb
+C:\Users\EXCALIBUR\Desktop\Visual Studio Projeler\Login Screen\Login Screen\obj\Debug\Login Screen.csproj.AssemblyReference.cache
+C:\Users\EXCALIBUR\Desktop\Visual Studio Projeler\Login Screen\Login Screen\obj\Debug\Login Screen.csproj.SuggestedBindingRedirects.cache
+C:\Users\EXCALIBUR\Desktop\Visual Studio Projeler\Login Screen\Login Screen\obj\Debug\Login_Screen.Properties.Resources.resources
+C:\Users\EXCALIBUR\Desktop\Visual Studio Projeler\Login Screen\Login Screen\obj\Debug\Login Screen.csproj.GenerateResource.cache
+C:\Users\EXCALIBUR\Desktop\Visual Studio Projeler\Login Screen\Login Screen\obj\Debug\Login Screen.csproj.CoreCompileInputs.cache
+C:\Users\EXCALIBUR\Desktop\Visual Studio Projeler\Login Screen\Login Screen\obj\Debug\Login Screen.exe
+C:\Users\EXCALIBUR\Desktop\Visual Studio Projeler\Login Screen\Login Screen\obj\Debug\Login Screen.pdb
